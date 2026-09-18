@@ -1,0 +1,1 @@
+powershell -Command "$code = Get-Clipboard; Set-Content -Path 'C:\Users\THIN15\RestaurantApp\App.js' -Value $code -Encoding UTF8"
